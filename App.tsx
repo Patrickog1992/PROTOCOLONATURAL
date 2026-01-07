@@ -68,7 +68,7 @@ const App: React.FC = () => {
           <div className="mt-12 w-full max-w-md mx-auto animate-fade-in-up text-center space-y-4">
             <Button 
               fullWidth 
-              onClick={() => window.location.href = "https://pay.kirvano.com/2e39a23d-962c-40fc-97e0-6ff741af9fc1"}
+              onClick={() => window.location.href = "https://go.perfectpay.com.br/PPU38CQ5LUO"}
               className="animate-pulse-green"
             >
               QUERO O PROTOCOLO AGORA
